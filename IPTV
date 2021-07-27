@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies" tvg-id="AndFlix.in" tvg-name="&Flix" tvg-logo="https://static.epg.best/in/AndFlix.in.png" ,AndFlix
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="AndPictures.in" tvg-name="&Pictures" tvg-logo="https://static.epg.best/in/AndPictures.in.png" ,AndPictures
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="AndPrive.in" tvg-name="&privé HD" tvg-logo="https://static.epg.best/in/AndPrive.in.png" ,AndPrivé HD
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:0 group-title="Documentary" tvg-logo="https://i.imgur.com/86jLO7q.png" ,Animal Planet (Vietnam)
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
+#EXTINF:0 group-title="Documentary" tvg-logo="https://i.imgur.com/86jLO7q.png" ,Animal Planet HD (Vietnam)
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
+#EXTINF:0 group-title="Documentary" tvg-logo="https://i.imgur.com/86jLO7q.png" ,Animal Planet (India)
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:0 group-title="Documentary" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" ,Discovery (Vietnam)
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
+#EXTINF:0 group-title="Documentary" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" ,Discovery (India)
+https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
+#EXTINF:0 group-title="Documentary" tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" ,Discovery Science (India)
+https://idvd.multitvsolution.com/idvo/discoversciencehindi.m3u8
+#EXTINF:0 group-title="Documentary" tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" ,Discovery Science English (India)
+https://idvd.multitvsolution.com/idvo/discoverscienceeng.m3u8
+#EXTINF:0 group-title="Documentary" tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" ,Discovery Science SD (India)
+https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
+#EXTINF:0 group-title="Documentary" tvg-logo="https://www.ais.th/play/images/channel/ch_logo_asia.jpg" ,Discovery Asia (Vietnam)
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
+#EXTINF:0 group-title="Documentary" tvg-logo="https://i.imgur.com/4duWidg.png" ,National Geographic HD (Abu Dhabi)
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="Documentary" tvg-logo="https://i.imgur.com/4duWidg.png" ,National Geographic HD (Vietnam)
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
+#EXTINF:0 group-title="Lifestyle" tvg-logo="https://i.imgur.com/iXwGMoe.png" ,TLC (Vietnam)
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
+#EXTINF:0 group-title="Lifestyle" tvg-logo="https://i.imgur.com/iXwGMoe.png" ,TLC (India)
+https://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
+#EXTINF:0 group-title="Documentary" tvg-logo="http://103.153.175.254:8080/img/bbcearth.jpg" ,BBC Earth (Vietnam)
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/playlist.m3u8
+#EXTINF:0 group-title="Lifestyle" tvg-logo="http://103.153.175.254:8080/img/travelxphd.jpg" ,TravelXP (India)
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" ,PTV Sports
+http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://www.cricketlivezone.com/wp-content/uploads/2020/01/GEO-SUPER-Live-Streaming.jpg" ,Geo Super (Pakistan)
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" ,Sky Sports Cricket
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg" ,FOX Sports News HD (akamai)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg" ,Red Bull TV Sports (akamai)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="http://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo-small.png" ,Sky Sports MIX
+http://stream.tvtap.live:8081/live/skysportsmix.stream/playlist.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" ,Sports TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" ,Sports TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" ,Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg" ,Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/bDCErVN.png" ,Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/oOUauO8.png" ,Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/oOUauO8.png" ,Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/K6KvFk6.png" ,Eurosports 1
+http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w1245608484.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/klqWiwb.png" ,Eurosports 2
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w622298732.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/UEvEaOK.png" ,Super Sports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/qE3DDKX.png" ,Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/sPnZ0d5.png" ,Super Sports 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/S6eGs4t.png" ,Super Sports 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/vowBrPg.png" ,Super Sports 5
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/N8CJxDY.png" ,Super Sports 6
+http://93.157.62.180/Supersport6/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/1gyHXhe.png" ,Super Sports 7
+http://93.157.62.180/Supersport7/index.m3u8
+#EXTINF:0 group-title="News" tvg-logo="https://i.imgur.com/AsLYbdw.png" ,CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 group-title="Lifestyle" tvg-logo="https://i.imgur.com/LIZyi7p.png" ,BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="Documentary" tvg-logo="https://i.imgur.com/T1vgYzE.png" ,BBC Earth (Vietnam)
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 group-title="News" tvg-logo="https://i.imgur.com/dQrdh2F.png" ,Al Jazeera SD
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:0 group-title="Movies" tvg-id="Movie Central_FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/96/Movie_central_2009_logo.svg/1200px-Movie_central_2009_logo.svg.png" ,Movie Central
+https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
